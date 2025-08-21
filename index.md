@@ -8,3 +8,9 @@
 ``` javascript
 var myVar = "Hola IMSS BIENESTAR!!!!"
 ```
+
+
+- [] Git add.
+- [] Git commit.
+- [] Git push.
+- [] Con todo padrinos!!!!
